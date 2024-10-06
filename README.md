@@ -1,2 +1,2 @@
 # Rock-vs-Mine
-Predicting the given data is ROCK or MINE.
+Predicting whether the given data is ROCK or MINE.
